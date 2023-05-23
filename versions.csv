@@ -1,0 +1,10 @@
+Version;Files;Hash;Link;Zip
+17.3c1;xpatch_09.db;16C821F77C3DA41161AAECC723F564B5D6534CEA0928CB94324D1DD20D110590; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/17.3c1.zip; \patches\17.3c1.zip
+17.3c1h1;xpatch_10.db;1DB7E3CFA3CA5594E1DFF5FBFCC85F6FCC8A1F0516DA9E1392126696451957DE; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/17.3c1h1.zip; \patches\17.3c1h1.zip
+17.3c2;xpatch_11.db;0A14E9C10EF16FBD35FC7964000C94BAEFCA8F12D7C370C002B2785E7C0519D4; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/17.3c2.zip; \patches\17.3c2.zip
+17.3czaton;zaton.db;C0B1B6543BA46D6AA67A835E4C93782E67B9752BFCC1B151038B3E3482AB7A9F; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/zaton.zip; \mp\zaton.zip
+xrGame;xrGame.dll;FFB884180D3C5D064C351EC17DD44C97F9778C1B364B14D3A8C0F67FF753E147; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/xrgame.zip; \bin\xrgame.zip
+xrCore;xrCore.dll;6BA12CE37A684307BE58E6947E5F878A3A3804DC2EAC9C93C46AC7DEA6D0AD11; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/xrcore.zip; \bin\xrcore.zip
+xrEngine;xrEngine.exe;100A7D3343E2CBFDCFE18343A034A4ED3A2219AF18B74DCEB04572438AE2446D; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/xrengine.zip; \bin\xrengine.zip
+xrLua;xrLua.dll;4ECB7776DFE4C42CB7AEECD7775B652A172429471115B338AD673D6B8C92467A; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/xrlua.zip; \bin\xrlua.zip;
+xrNetServer;xrNetServer.dll;8D32E38247E7F16BBE956E1E65302419C9A68DF204A10CB4D6385ECA71834C15; https://github.com/VodkaNET/stnet-17-patches/raw/main/zip/xrnetserver.zip; \bin\xrnetserver.zip;
